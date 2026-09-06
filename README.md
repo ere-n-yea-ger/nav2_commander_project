@@ -57,5 +57,6 @@ ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=True map:
 ### 2. Run the Commander Scripts
 Open a new terminal, source your workspace, and execute the Python commander script:
 ```bash
-python3 scripts/robot_patrol.py
+python3 scripts/simple_commander_api_template_hehe.py
 ```
+
